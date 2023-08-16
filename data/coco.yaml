@@ -1,7 +1,7 @@
 
-path: /kaggle/input/mpdataset/mp_dataset
-train: /kaggle/input/mpdataset/mp_dataset/coco128/images
-val: /kaggle/input/mpdataset/mp_dataset/coco128/images
+path: /kaggle/input/mpdata/mp_dataset
+train: /kaggle/input/mpdata/mp_dataset/coco128/images
+val: /kaggle/input/mpdata/mp_dataset/coco128/images
 
 
 
